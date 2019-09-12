@@ -1258,7 +1258,7 @@ header{
     color: antiquewhite;
     transition: .5s;
 }
-#example-input{
+#example-input2 , #example-input3 , #example-input4{
     padding-left: 0;
 }
 #example-input1{
