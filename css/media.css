@@ -1519,7 +1519,7 @@ display: none;
     padding: 10px;
 }
 .read img {
-    top: 5%;
+    top: 28px;
     left: 50%;
     width: 50%;
     height: 93%;
@@ -2017,6 +2017,7 @@ display: none;
 }
 .read img {
     height: 99%;
+    top: 10px;
 }
 /*case-study ends*/
 /*counter starts*/
