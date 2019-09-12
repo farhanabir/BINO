@@ -662,7 +662,7 @@ header{
 }
 .creative{
     position: relative;
-    margin-top: 50px;
+    margin-top: 48px;
     margin-bottom: 2rem;
     background-color: white;
     z-index: 1;
@@ -712,7 +712,7 @@ header{
 }
 .read img {
     position: absolute;
-    top: 2%;
+    top: 4%;
     left: 50%;
     width: 50%;
 }
