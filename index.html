@@ -15,7 +15,7 @@
     <script src="https://kit.fontawesome.com/5b8cdab0e6.js"></script>
     <title>BINO</title>
 </head>
-<body>
+<body id="mySite">
   <div class="fakeLoader"></div>
 <!-- header starts -->
   <header>
@@ -1160,6 +1160,7 @@
 <!-- for wow -->
     <script src="js/wow.min.js"></script>
     <script>
+	document.getElementById("mySite").style.display = "block";
       $(document).ready(function(){
 // preloader starts
         $.fakeLoader({
