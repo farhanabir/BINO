@@ -52,6 +52,11 @@
 	src: url(../fonts/Lato-RegularItalic.otf);
 }
 /*fonts ends*/
+/*body starts*/
+#mySite{
+ display:none;
+ }
+ /*body ends*/
 /*header starts*/
 header{
 	background-image: url(../images/bg.jpg);
